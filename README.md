@@ -1,0 +1,1 @@
+These are some of the assignments/projects I worked on in my data structures and algorithms class. The code was written in Java using Intellij, and the files were originally in gitlab; however, I had to transfer them over to github.
